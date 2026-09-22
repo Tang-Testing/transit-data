@@ -1,0 +1,9 @@
+route_id,route_name,route_type,operator
+R001,Mo Chit - Bang Na,Bus,BMTA
+R002,Victory Monument - Lat Krabang,Bus,BMTA
+R003,Siam - On Nut,BTS,BTSC
+R004,Hua Lamphong - Bang Sue,MRT,MRTA
+R005,Ratchada - Lat Phrao,Bus,BMTA
+R006,Ekkamai - Bang Kapi,Bus,BMTA
+R007,Chatuchak - Don Mueang,Bus,BMTA
+R008,Asok - Udomsuk,BTS,BTSC
